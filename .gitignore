@@ -1,0 +1,3 @@
+*.pyc
+__*
+creds.txt
