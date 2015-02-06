@@ -1,3 +1,4 @@
 *.pyc
 __*
 creds.txt
+speech_recognition
